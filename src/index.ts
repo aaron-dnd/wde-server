@@ -23,3 +23,5 @@ const port = Number(process.env.PORT) || 4000;
 serve({ fetch: app.fetch, port }, (info) => {
   console.log(`Server running on http://localhost:${info.port}`);
 });
+
+//This is the official property of Wedding Documentary Events. Any unauthorized use of this code is strictly prohibited and may result in legal action.
